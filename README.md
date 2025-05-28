@@ -9,6 +9,37 @@ I’m passionate about cybersecurity, automation, and developing scripts and too
 
 ---
 
+### 📈 **Profile Insights**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jose-litium&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/jose-litium?label=Followers&style=flat-square" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/jose-litium?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" alt="GitHub Stars" />
+</p>
+
+---
+
+### 🏆 **Trophy Board**
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=jose-litium&margin-w=8&row=1&column=8&theme=gruvbox" alt="trophy" />
+</p>
+
+---
+
+### 🧰 **Tech Stack**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+</p>
+
+---
+
 ### 📌 **Featured Projects**
 
 - **[Soar-incident-responses](https://github.com/jose-litium/Soar-incident-responses)**  
