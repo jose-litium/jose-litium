@@ -1,4 +1,4 @@
-<img src="2.png" alt="Jose-litium Banner" width="100%" />
+<img src="1.png" alt="Jose-litium Banner" width="100%" />
 
 # Jose-litium
 
