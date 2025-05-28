@@ -36,22 +36,6 @@ Cybersecurity enthusiast and automation specialist focused on scripting, system 
 
 ---
 
-## System Automation Architecture
-
-```mermaid
-flowchart TD
-    A[User] -->|Triggers script| B[System-Caretaker]
-    B --> C[Automated Checks]
-    C --> D[System Optimization]
-    C --> E[Security Hardening]
-    D --> F[Reporting & Logs]
-    E --> F
-````
-
-*(This diagram illustrates a basic flow for automated system maintenance and security hardening.)*
-
----
-
 ## GitHub Statistics
 
 <p align="center">
