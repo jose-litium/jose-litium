@@ -39,10 +39,9 @@ Cybersecurity enthusiast and automation specialist focused on scripting, system 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jose-litium&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="jose-litium GitHub stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-litium&layout=compact&hide_border=true&hide_title=true" alt="Top languages" />
 </p>
+
 
 ---
 
@@ -50,15 +49,4 @@ Cybersecurity enthusiast and automation specialist focused on scripting, system 
 **jose-litium/jose-litium** is a _special_ repository because its `README.md` appears on your GitHub profile.
 -->
 
-```
-
----
-
-### **Detalles extra:**
-
-- Las imágenes de estadísticas y lenguajes se actualizan automáticamente.
-- El diagrama se verá visualmente en GitHub (no en previsualización de VSCode).
-- Puedes añadir, si quieres, una sección de “Certificaciones” o “Logros” en la misma línea minimalista.
-
-¿Quieres una firma final, sección de certificados, alguna frase profesional o lema personal? ¿Te gustaría integrar insignias de tecnologías (por ejemplo, shields.io) pero sin sobrecargarlo? ¡Dímelo y lo añado a tu estilo!
 ```
