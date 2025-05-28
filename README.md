@@ -53,12 +53,15 @@ I’m passionate about cybersecurity, automation, and developing scripts and too
 - When I’m not coding, you’ll find me exploring the latest security challenges, contributing to online tech communities, or mentoring future IT professionals.
 
 ---
+### 📫 Contact
 
+- Email: [jmmorenod@hotmail.es](mailto:jmmorenod@hotmail.es)
+- LinkedIn: [josemmanueldiaz](https://www.linkedin.com/in/josemmanueldiaz/)
+- Location: Remote / Ho Chi Minh City
+
+---
 ### 📊 GitHub Overview
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jose-litium&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-litium&layout=compact&hide_border=true&hide_title=true" alt="Top languages" />
 </p>
@@ -68,6 +71,7 @@ I’m passionate about cybersecurity, automation, and developing scripts and too
 
 ---
 
+
 ### 🏆 GitHub Trophy Board
 
 <p align="center">
@@ -76,11 +80,6 @@ I’m passionate about cybersecurity, automation, and developing scripts and too
 
 ---
 
-### 📫 Contact
-
-- Email: [jmmorenod@hotmail.es](mailto:jmmorenod@hotmail.es)
-- LinkedIn: [josemmanueldiaz](https://www.linkedin.com/in/josemmanueldiaz/)
-- Location: Remote / Ho Chi Minh City
 
 <!--
 **jose-litium/jose-litium** is a _special_ repository because its `README.md` appears on your GitHub profile.
