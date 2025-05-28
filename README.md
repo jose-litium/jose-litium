@@ -9,7 +9,7 @@ I’m passionate about cybersecurity, automation, and developing scripts and too
 
 ---
 
-### 📈 **Profile Insights**
+### 📈 Profile Insights
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jose-litium&style=flat-square&color=blue" alt="Profile views" />
@@ -19,15 +19,7 @@ I’m passionate about cybersecurity, automation, and developing scripts and too
 
 ---
 
-### 🏆 **Trophy Board**
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=jose-litium&margin-w=8&row=1&column=8&theme=gruvbox" alt="trophy" />
-</p>
-
----
-
-### 🧰 **Tech Stack**
+### 🧰 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
@@ -40,7 +32,7 @@ I’m passionate about cybersecurity, automation, and developing scripts and too
 
 ---
 
-### 📌 **Featured Projects**
+### 📌 Featured Projects
 
 - **[Soar-incident-responses](https://github.com/jose-litium/Soar-incident-responses)**  
   Automated incident response toolkit for Google Workspace.  
@@ -55,7 +47,7 @@ I’m passionate about cybersecurity, automation, and developing scripts and too
 
 ---
 
-### 🛠️ **About Me**
+### 🛠️ About Me
 
 - I love building solutions that automate routine tasks and increase security.
 - I enjoy experimenting with Linux, PowerShell, Bash, and new tech stacks.
@@ -64,7 +56,7 @@ I’m passionate about cybersecurity, automation, and developing scripts and too
 
 ---
 
-### ⚡ **A little more about me**
+### ⚡ A little more about me
 
 - I have a background in cybersecurity and IT operations, working internationally in Europe, Asia, and Australia.
 - I value clean code, practical solutions, and continuous learning.
@@ -72,13 +64,19 @@ I’m passionate about cybersecurity, automation, and developing scripts and too
 
 ---
 
-### 📫 **Contact**
+### 📫 Contact
 
 - Email: [jmmorenod@hotmail.es](mailto:jmmorenod@hotmail.es)
 - LinkedIn: [josemmanueldiaz](https://www.linkedin.com/in/josemmanueldiaz/)
 - Location: Remote / Ho Chi Minh City
 
 ---
+
+### 🏆 GitHub Trophy Board
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jose-litium&theme=gruvbox&no-bg=true&no-frame=true" alt="jose-litium trophy" />
+</p>
 
 <!--
 **jose-litium/jose-litium** is a _special_ repository because its `README.md` appears on your GitHub profile.
