@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="1.png" alt="Jose-litium Banner" width="80%" />
-</p>
 
 # Jose-litium
 
