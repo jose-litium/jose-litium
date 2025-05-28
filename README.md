@@ -74,8 +74,8 @@ I’m passionate about cybersecurity, automation, and developing scripts and too
 
 ### 🏆 GitHub Trophy Board
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jose-litium&theme=gruvbox&no-bg=true&no-frame=true" alt="jose-litium trophy" />
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=jose-litium&theme=gruvbox&no-bg=true&no-frame=true&title=Followers,Stars,Commits,Repositories&margin-w=15" alt="jose-litium trophy" />
 </p>
 
 <!--
