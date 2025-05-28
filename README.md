@@ -1,15 +1,3 @@
-¡Genial! Te armo un README aún más completo, profesional y visual, agregando:
-
-* **Estadísticas de GitHub** (con badges automáticos).
-* Sección de lenguajes más usados.
-* Todo limpio, sin emojis, minimalista y bien estructurado.
-* El diagrama ya incluido.
-
-Copia y pega lo siguiente en tu `README.md`:
-
----
-
-````markdown
 # Jose-litium
 
 ## Overview
