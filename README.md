@@ -72,11 +72,20 @@ I’m passionate about cybersecurity, automation, and developing scripts and too
 
 ---
 
-### 🏆 GitHub Trophy Board
+### 📊 GitHub Overview
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=jose-litium&theme=gruvbox&no-bg=true&no-frame=true&title=Followers,Stars,Commits,Repositories&margin-w=15" alt="jose-litium trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jose-litium&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-litium&layout=compact&hide_border=true&hide_title=true" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=jose-litium&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
 
 <!--
 **jose-litium/jose-litium** is a _special_ repository because its `README.md` appears on your GitHub profile.
