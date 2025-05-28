@@ -9,16 +9,6 @@ I’m passionate about cybersecurity, automation, and developing scripts and too
 
 ---
 
-### 📈 Profile Insights
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jose-litium&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/jose-litium?label=Followers&style=flat-square" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/jose-litium?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" alt="GitHub Stars" />
-</p>
-
----
-
 ### 🧰 Tech Stack
 
 <p align="left">
@@ -64,16 +54,6 @@ I’m passionate about cybersecurity, automation, and developing scripts and too
 
 ---
 
-### 📫 Contact
-
-- Email: [jmmorenod@hotmail.es](mailto:jmmorenod@hotmail.es)
-- LinkedIn: [josemmanueldiaz](https://www.linkedin.com/in/josemmanueldiaz/)
-- Location: Remote / Ho Chi Minh City
-
----
-
----
-
 ### 📊 GitHub Overview
 
 <p align="left">
@@ -86,12 +66,21 @@ I’m passionate about cybersecurity, automation, and developing scripts and too
   <img src="https://streak-stats.demolab.com?user=jose-litium&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/jose-litium?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/jose-litium?style=flat-square" />
-  <img src="https://img.shields.io/github/repos/jose-litium?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=jose-litium&style=flat-square&color=blue" alt="Profile views" />
+---
+
+### 🏆 GitHub Trophy Board
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jose-litium&theme=gruvbox&no-bg=true&no-frame=true&title=Repositories,Issues,PullRequest&margin-w=20" alt="jose-litium trophy" />
 </p>
+
+---
+
+### 📫 Contact
+
+- Email: [jmmorenod@hotmail.es](mailto:jmmorenod@hotmail.es)
+- LinkedIn: [josemmanueldiaz](https://www.linkedin.com/in/josemmanueldiaz/)
+- Location: Remote / Ho Chi Minh City
 
 <!--
 **jose-litium/jose-litium** is a _special_ repository because its `README.md` appears on your GitHub profile.
